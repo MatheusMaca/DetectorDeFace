@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex2CameraAndroid</string>
+
+    <string name="clear_button_string">botao</string>
+
+    <!-- Strings usadas pela Snackbar-->
+    <string name="snackbar_arcore_unavailable">Por favor instale ARCore.</string>
+    <string name="snackbar_arcore_too_old">Por favor atualize ARCore.</string>
+    <string name="snackbar_arcore_sdk_too_old">Por favor atualize o SDK ARCore.</string>
+    <string name="snackbar_arcore_exception">Este dispositivo não suporta ARCore.</string>
+    <string name="snackbar_camera_unavailable">Camera travada. Por favor abra novamente o aplicativo.</string>
+</resources>
